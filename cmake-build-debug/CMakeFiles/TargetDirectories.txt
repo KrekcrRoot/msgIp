@@ -1,0 +1,3 @@
+C:/Users/Niko/CLionProjects/msgip/cmake-build-debug/CMakeFiles/msgip.dir
+C:/Users/Niko/CLionProjects/msgip/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Niko/CLionProjects/msgip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
