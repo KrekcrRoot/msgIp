@@ -7,6 +7,5 @@
 > 2. connection to internet
 > 3. the same open ports for the recipient and the sender
 
-___
 
 your data encrypt by Imply algorithm
